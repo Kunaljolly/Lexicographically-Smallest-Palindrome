@@ -16,13 +16,11 @@ Input: s = "egcfe"
 Output: "efcfe"
 Explanation: The minimum number of operations to make "egcfe" a palindrome is 1, and the lexicographically smallest palindrome string we can get by modifying one character is "efcfe", by changing 'g'.
 
-
 Example 2:
 
 Input: s = "abcd"
 Output: "abba"
 Explanation: The minimum number of operations to make "abcd" a palindrome is 2, and the lexicographically smallest palindrome string we can get by modifying two characters is "abba".
-
 
 Example 3:
 
